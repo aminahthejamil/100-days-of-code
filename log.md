@@ -1,30 +1,22 @@
 # 100 Days Of Code - Log
 
-### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
+### Day 1: 7 Jan, Saturday
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: I started on freeCodeCamp, using my phone :eyeroll:
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
-
-**Link to work:** [Calculator App](http://www.example.com)
-
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
-
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
-
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
-
-**Link(s) to work**: [Calculator App](http://www.example.com)
-
-
-### Day 1: June 27, Monday
-
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
-
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
+**Thoughts** This was essentially a brush-up of previous HTML5/CSS3 knowledge, which is always helpful. I was also in the process of getting my computer fixed. Now that that's all taken care of, practicing coding is a breeze.
 
 **Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+1. [Say Hello to HTML Elements]https://www.freecodecamp.com/challenges/say-hello-to-html-elements
+2. [Use RGB to Mix Colors]https://www.freecodecamp.com/challenges/use-rgb-to-mix-colors
+
+
+### Day 2: 8 Jan, Saturday
+
+**Today's Progress**: Finished Bootstrap and started on jQuery
+
+**Thoughts** I'd always been intrigued with Bootstrap, but had always tried to learn it in tandem with Wordpress themes, which threw me off majorly. Learning it by itself was amazing and I'm excited to do more with it in the future.
+
+**Link(s) to work**
+1. [Use Responsive Design with Bootstrap Fluid Containers]https://www.freecodecamp.com/challenges/use-responsive-design-with-bootstrap-fluid-containers
+2. [Learn How Script Tags and Document Ready Work]https://www.freecodecamp.com/challenges/learn-how-script-tags-and-document-ready-work
