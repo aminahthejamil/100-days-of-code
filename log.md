@@ -58,9 +58,11 @@
 
 ### Day 6: 12 Jan, Thursday
 
-**Today's Progress**: Trying to set up the navbar for the portfolio site. 
+**Today's Progress**: Trying to set up the navbar for the portfolio site. Also, learning some jQuery via A Smarter Way to Learn. 
 
-**Thoughts**  I originally set out to use a Bootstrap navbar, but I wanted it to be sort of opaque. The active links were not working with me, but not that I think of it, I might have to go in and set the CSS for the active links themselves. We'll see. Doing the navbar with just CSS is proving more difficult than I thought.
+**Thoughts**  I originally set out to use a Bootstrap navbar, but I wanted it to be sort of opaque. The active links were not working with me, but not that I think of it, I might have to go in and set the CSS for the active links themselves. We'll see. Doing the navbar with just CSS is proving more difficult than I thought. 
+
+So, I'm in university (senioritis majoris) right now for psychology and it's our first week back. Is it bad that I'm coding during lecture? I can totally multitask! :-D
 
 **Link(s) to work**
 
