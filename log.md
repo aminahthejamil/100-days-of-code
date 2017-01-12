@@ -34,11 +34,22 @@
 
 1. [Parallax Portfolio]http://codepen.io/ajamil1211/pen/JEYBVo
 
-### Day 4: 10 Jan, Monday
+### Day 4: 10 Jan, Tuesday
 
 **Today's Progress**: Trying to understand jQuery so I can continue building the page
 
 **Thoughts** I've been trying to find the best, most bug-free way to make a parallax page. It's harder than I thought. There are some CSS-only codes, some jQuery-only, and some mixed CSS and jQuery codes. This is about the time I usually lose my mind, but I'm sticking it out and pushing through!
+
+**Link(s) to work**
+
+1. [Parallax Portfolio]http://codepen.io/ajamil1211/pen/JEYBVo
+
+
+### Day 4: 11 Jan, Wednesday
+
+**Today's Progress**: I've managed to use css only to get the parallax!
+
+**Thoughts** There's a lot of stuff about css that we aren't taught. I'm learning that I need to do some more learning!
 
 **Link(s) to work**
 
