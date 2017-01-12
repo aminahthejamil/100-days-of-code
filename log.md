@@ -45,11 +45,22 @@
 1. [Parallax Portfolio]http://codepen.io/ajamil1211/pen/JEYBVo
 
 
-### Day 4: 11 Jan, Wednesday
+### Day 5: 11 Jan, Wednesday
 
 **Today's Progress**: I've managed to use css only to get the parallax!
 
 **Thoughts** There's a lot of stuff about css that we aren't taught. I'm learning that I need to do some more learning!
+
+**Link(s) to work**
+
+1. [Parallax Portfolio]http://codepen.io/ajamil1211/pen/JEYBVo
+
+
+### Day 6: 12 Jan, Thursday
+
+**Today's Progress**: Trying to set up the navbar for the portfolio site. 
+
+**Thoughts**  I originally set out to use a Bootstrap navbar, but I wanted it to be sort of opaque. The active links were not working with me, but not that I think of it, I might have to go in and set the CSS for the active links themselves. We'll see. Doing the navbar with just CSS is proving more difficult than I thought.
 
 **Link(s) to work**
 
