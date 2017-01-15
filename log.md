@@ -67,3 +67,24 @@ So, I'm in university (senioritis majoris) right now for psychology and it's our
 **Link(s) to work**
 
 1. [Parallax Portfolio]http://codepen.io/ajamil1211/pen/JEYBVo
+
+### Day 7: 13 Jan, Friday
+
+**Today's Progress**: Attempted a CSS animal, failed. Will return. Still tweeking navbar on portfolio site 
+
+**Thoughts**: Lots of eye rolling and such, I'm a little over the CSS animal thing at the moment and I've barely started. Oh well, I will come back to it though.
+
+**Link(s) to work**
+
+1. [Parallax Portfolio]http://codepen.io/ajamil1211/pen/JEYBVo
+
+### Day 8: 14 Jan, Saturday
+
+**Today's Progress**: Same as yesterday, minus the CSS animal 
+
+**Thoughts**  It's Saturday...
+
+**Link(s) to work**
+
+1. [Parallax Portfolio]http://codepen.io/ajamil1211/pen/JEYBVo
+
