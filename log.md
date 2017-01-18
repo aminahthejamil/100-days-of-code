@@ -88,3 +88,24 @@ So, I'm in university (senioritis majoris) right now for psychology and it's our
 
 1. [Parallax Portfolio]http://codepen.io/ajamil1211/pen/JEYBVo
 
+
+### Day 9: 16 Jan, Monday
+
+**Today's Progress**: Realized I need to make the portfolio responsive, because it's not
+
+**Thoughts**  I noticed that my code is not rendering correctly/properly when I look at it in codepen, so I've decided to recode it to be more responsive
+
+**Link(s) to work**
+
+1. [Parallax Portfolio]http://codepen.io/ajamil1211/pen/JEYBVo
+
+
+### Day 10: 17 Jan, Tuesday
+
+**Today's Progress**: Working on responsiveness
+
+**Thoughts**  Hours, hours spent on responsiveness, but I'm learning SO MUCH! All is not lost
+
+**Link(s) to work**
+
+1. [Parallax Portfolio]http://codepen.io/ajamil1211/pen/JEYBVo
